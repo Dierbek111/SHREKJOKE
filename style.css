@@ -1,0 +1,61 @@
+/* *{ 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+  } 
+  .container{ 
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 0 15px; 
+  } */
+
+  .btn{
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    display: flex;
+    margin: 50px auto;
+    display: block;
+  }
+
+  body{
+    transition: all 1s;
+  }
+
+  .red{
+    background-color: brown;
+    color:white;
+  }
+
+  .img1{
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    
+  }
+
+
+  .hidden {
+    display: none;
+  }
+
+  #btn3{
+    background-color: blue;
+    transition: 1s;
+    color:white;
+  }
+
+  .negri{
+    display: none;
+  }
+  .negri1{
+    display: block;
+  }
+
+  .shreki{
+    display: none;
+  }
+  .shreki1{
+    display: block;
+  }
